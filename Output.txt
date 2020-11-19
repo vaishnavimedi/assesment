@@ -1,0 +1,14 @@
+Number of words in the file:242
+Repeated Words In Input File Are :
+the : 19
+i : 11
+of : 11
+a : 6
+to : 6
+that : 6
+and : 5
+in : 4
+had : 4
+with : 4
+Last Sentence that contains most used word:
+Looking for houses was supposed to be a fun and exciting process. Unfortunately none of the ones that we saw seemed to match the specifications that we had established. They were too small too impersonal too close to the neighbors. After days of finding nothing even close we began to wonder: was there really a perfect house out there for us
