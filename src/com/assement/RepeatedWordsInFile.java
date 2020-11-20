@@ -21,7 +21,7 @@ public class RepeatedWordsInFile {
 		BufferedReader reader = null;
 		try {
 
-			reader = new BufferedReader(new FileReader("input.txt"));
+			reader = new BufferedReader(new FileReader("passage.txt"));
 			String currentLine = "";
 			int wc = 0;
 			while ((currentLine = reader.readLine()) !=null && !currentLine.isEmpty() ) {
@@ -71,7 +71,7 @@ public class RepeatedWordsInFile {
 	}
 	
 	 public static void readSentences(Map<String, Integer> subMap) throws IOException{
-		   File f1=new File("input.txt");
+		   File f1=new File("passage.txt");
 		     
 		      int wc=0;    
 		      FileReader fr = new FileReader(f1);   
